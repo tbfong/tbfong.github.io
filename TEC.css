@@ -1,0 +1,37 @@
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+img {
+    width: 540px;
+    height: auto;
+}
+
+H1, h2, h3, h4, h5 {
+    color: #38666b;
+}
+.jumbotron {
+    background-image: url('file:///Users/Tbfong/Downloads/Ramble_7064e.0%20(1).jpg');
+    background-size: cover;
+    color: white;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #737373;
+}
+
+.navbar {
+    color: #866d4b;
+}
+.btn{
+    color:#866d4b;
+    border-color: #866d4b;
+    
+}
+.btn:hover{
+    color: white;
+    background: #866d4b;
+
+}
