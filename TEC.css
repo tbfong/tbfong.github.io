@@ -6,6 +6,7 @@ img {
     width: 800px;
     height: 800px;
     object-fit: scale-down;
+    max-width: 100%;
 }
 
 H1, h2, h3, h4, h5 {
