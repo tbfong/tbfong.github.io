@@ -3,8 +3,9 @@ ul {
     list-style-type: none;
 }
 img {
-    width: auto;
-    height: auto;
+    width: 800px;
+    height: 800px;
+    object-fit: scale-down;
 }
 
 H1, h2, h3, h4, h5 {
