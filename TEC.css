@@ -20,11 +20,13 @@ H1, h2, h3, h4, h5 {
    
 }
 .jumbotron, h1 { 
-    color: #ffffff; 
+    color: white; 
 }
 body {
     text-align: center;
     color: #737373;
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(239, 239, 240);
 }
 
 .navbar {
@@ -39,4 +41,7 @@ body {
     color: white;
     background: #866d4b;
 
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
